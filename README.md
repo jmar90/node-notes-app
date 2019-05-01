@@ -1,4 +1,4 @@
-# Node.js Notes Application
+# Node.js Notes App
 
 This is a simple notes application built using Node.js.
 
